@@ -1,0 +1,16 @@
+
+.aljcont {
+    width: 100%;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+  }
+  .aljcont #alj {
+    width: 100%;
+    min-width: 1920px;
+  }
+
+
+  
